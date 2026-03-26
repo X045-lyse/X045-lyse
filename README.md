@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FF0080,1a0010,FF0080&height=300&section=header&text=MARLYSE%20BOUKARI&fontSize=76&fontColor=FF69B4&fontAlignY=52&animation=fadeIn&stroke=FF69B4&strokeWidth=3&desc=PINK%20TEAM%20OPERATOR%20%2F%2F%20root%40universe&descAlignY=74&descSize=19" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FF0080,1a0010&height=300&section=header&text=MARLYSE%20BOUKARI&fontSize=76&fontColor=FF69B4&fontAlignY=52&animation=fadeIn&stroke=FF69B4&strokeWidth=3" />
 
 <br/>
 
@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/▶ STATUS-ONLINE-FF69B4?style=for-the-badge&labelColor=0d0010" />
-<img src="https://img.shields.io/badge/🔓 ACCESS-ROOT-FF69B4?style=for-the-badge&labelColor=0d0010" />
-<img src="https://img.shields.io/badge/🎯 ROLE-PINK OPERATOR-FF69B4?style=for-the-badge&labelColor=0d0010" />
-<img src="https://img.shields.io/badge/⚡ MODE-BUILD · BREAK · SECURE-FF69B4?style=for-the-badge&labelColor=0d0010" />
+<img src="https://img.shields.io/badge/ STATUS-ONLINE-FF69B4?style=for-the-badge&labelColor=0d0010" />
+<img src="https://img.shields.io/badge/ACCESS-ROOT-FF69B4?style=for-the-badge&labelColor=0d0010" />
+<img src="https://img.shields.io/badge/ ROLE-PINK OPERATOR-FF69B4?style=for-the-badge&labelColor=0d0010" />
+<img src="https://img.shields.io/badge/ MODE-BUILD · BREAK · SECURE-FF69B4?style=for-the-badge&labelColor=0d0010" />
 
 </div>
 
@@ -22,7 +22,7 @@
 <!-- ═══════════════════════ WHOAMI ═══════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=99999&color=FF69B4&center=true&vCenter=true&width=680&lines=%E2%94%8C%E2%94%80%E2%94%80(pink%E2%8A%B3team)-[~%2Fidentity]%0A%E2%94%94%E2%94%80%24+cat+whoami.json" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=99999&color=FF0080&center=true&vCenter=true&width=680&lines=%E2%94%8C%E2%94%80%E2%94%80(pink%E2%8A%B3team)-[~%2Fidentity]%0A%E2%94%94%E2%94%80%24+cat+whoami.json" />
 </div>
 
 ```json
@@ -30,21 +30,21 @@
   "operator"  : "Marlyse Boukari",
   "alias"     : "pink_operator",
   "clearance" : "ROOT",
-  "location"  : "🌍 Cotonou, Bénin",
-  "roles"     : ["⚔️ Cybersecurity Student", "🌐 Full Stack Dev", "📱 Mobile Engineer", "🎨 UI/UX Enthusiast", "🚩 CTF Player"],
+  "location"  : " Cotonou, Bénin",
+  "roles"     : [" Cybersecurity Student", " Full Stack Dev", " Mobile Engineer", "UI/UX Enthusiast", " CTF Player"],
   "shell"     : "zsh + tmux + neovim",
   "os"        : "Kali Linux / macOS",
-  "status"    : "ACTIVE 🟢"
+  "status"    : "ACTIVE "
 }
 ```
 
 <div align="center"><br/>
 
-![](https://img.shields.io/badge/⚔️-Cybersecurity_Student-FF69B4?style=flat-square&labelColor=1a0010)
-![](https://img.shields.io/badge/🌐-Full_Stack_Developer-FF69B4?style=flat-square&labelColor=1a0010)
-![](https://img.shields.io/badge/📱-Mobile_Engineer-FF69B4?style=flat-square&labelColor=1a0010)
-![](https://img.shields.io/badge/🎨-UI/UX_Enthusiast-FF69B4?style=flat-square&labelColor=1a0010)
-![](https://img.shields.io/badge/🚩-CTF_Player-FF69B4?style=flat-square&labelColor=1a0010)
+![](https://img.shields.io/badge/-Cybersecurity_Student-FF69B4?style=flat-square&labelColor=1a0010)
+![](https://img.shields.io/badge/-Full_Stack_Developer-FF69B4?style=flat-square&labelColor=1a0010)
+![](https://img.shields.io/badge/-Mobile_Engineer-FF69B4?style=flat-square&labelColor=1a0010)
+![](https://img.shields.io/badge/-UI/UX_Enthusiast-FF69B4?style=flat-square&labelColor=1a0010)
+![](https://img.shields.io/badge/-CTF_Player-FF69B4?style=flat-square&labelColor=1a0010)
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=99999&color=FF69B4&center=true&vCenter=true&width=680&lines=%E2%94%8C%E2%94%80%E2%94%80(pink%E2%8A%B3team)-[~%2Farsenal]%0A%E2%94%94%E2%94%80%24+ls+tech_stack%2F+--icons+--all" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=99999&color=FF0080&center=true&vCenter=true&width=680&lines=%E2%94%8C%E2%94%80%E2%94%80(pink%E2%8A%B3team)-[~%2Farsenal]%0A%E2%94%94%E2%94%80%24+ls+tech_stack%2F+--icons+--all" />
 
 <br/>
 
@@ -131,7 +131,7 @@
 <!-- ═══════════════════════ SECURITY MINDSET ═══════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=99999&color=FF69B4&center=true&vCenter=true&width=680&lines=%E2%94%8C%E2%94%80%E2%94%80(pink%E2%8A%B3team)-[~%2Fsecurity]%0A%E2%94%94%E2%94%80%24+./mindset.sh+--verbose" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&pause=99999&color=FF0080&center=true&vCenter=true&width=680&lines=%E2%94%8C%E2%94%80%E2%94%80(pink%E2%8A%B3team)-[~%2Fsecurity]%0A%E2%94%94%E2%94%80%24+./mindset.sh+--verbose" />
 </div>
 
 ```bash
@@ -159,11 +159,11 @@ echo ">> PINK TEAM   :  Always watching. 👁"
 
 <br/>
 
-![](https://img.shields.io/badge/🔫-Nmap-FF69B4?style=for-the-badge&labelColor=0d0010)
-![](https://img.shields.io/badge/💉-SQLMap-FF69B4?style=for-the-badge&labelColor=0d0010)
-![](https://img.shields.io/badge/🔓-Hydra-FF69B4?style=for-the-badge&labelColor=0d0010)
-![](https://img.shields.io/badge/🪓-John_the_Ripper-FF69B4?style=for-the-badge&labelColor=0d0010)
-![](https://img.shields.io/badge/🌀-Gobuster-FF69B4?style=for-the-badge&labelColor=0d0010)
+![](https://img.shields.io/badge/-Nmap-FF69B4?style=for-the-badge&labelColor=0d0010)
+![](https://img.shields.io/badge/-SQLMap-FF69B4?style=for-the-badge&labelColor=0d0010)
+![](https://img.shields.io/badge/-Hydra-FF69B4?style=for-the-badge&labelColor=0d0010)
+![](https://img.shields.io/badge/-John_the_Ripper-FF69B4?style=for-the-badge&labelColor=0d0010)
+![](https://img.shields.io/badge/-Gobuster-FF69B4?style=for-the-badge&labelColor=0d0010)
 
 <br/>
 
